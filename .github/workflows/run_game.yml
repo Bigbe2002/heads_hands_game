@@ -1,4 +1,4 @@
-name: Run game
+name: Run Hero Game
 
 on:
   push:
