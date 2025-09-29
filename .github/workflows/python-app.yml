@@ -1,4 +1,4 @@
-name: Test Hero Game 
+name: Test Hero Game  
 
 on: [push, pull_request]
 
